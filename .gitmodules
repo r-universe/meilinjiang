@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MAZE"]
+	path = MAZE
+	url = https://github.com/meilinjiang/maze
+	shallow = true
+	registered = true
